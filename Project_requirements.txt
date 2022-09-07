@@ -1,0 +1,7 @@
+Project requirement
+-Extract faculty information of university faculty.
+-Faculty link -"https://www.wharton.upenn.edu/faculty-directory/"
+-Extract all faculty links and iteration on every faculty link and extract the following information.
+-Faculty name , title , Email , Phone , Address , State , zip_code.
+-Save information in CSV file.
+-Send CSV file over S3 bucket.
